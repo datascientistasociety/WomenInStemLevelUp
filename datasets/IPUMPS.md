@@ -1,7 +1,7 @@
 The original dataset from Shuojia's project is at Data used in this study found from IPUMPS Higher Ed. https://highered.ipums.org/highered/
 
 Read through the field list at 
-        women_in_stem/metadata.pdf
+        https://github.com/shuojiashi/women_in_stem/blob/master/metadata.pdf
       
 
 Shuojia says:
