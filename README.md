@@ -33,6 +33,7 @@ Using the IPUMPS data set, Shuojia observed:
 10. Is the gender pay gap at entry level, and/or later down the road?
 11. For a given dataset, what is the date of the latest record? How fresh is the data, and does it matter?
 12. Does a given data set include management levels?
+13. Wait, if the gender is so influential, how did it play out in the predictive models?
 
 
 #**ADDITIONAL INSPIRATION**
